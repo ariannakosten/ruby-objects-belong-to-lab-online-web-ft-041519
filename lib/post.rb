@@ -23,7 +23,7 @@ class Post
     @title = title
 end
 end
-#author.post = @title
+
 
 # class Artist
 #   attr_accessor :name, :genre
